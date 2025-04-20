@@ -19,11 +19,22 @@ Se realizó un análisis exhaustivo de los datos de ventas de las cuatro tiendas
 
 ## Resultados
 
-Los resultados del análisis indican que la tienda 2 es la que presenta el peor desempeño en términos de rentabilidad, ubicación geográfica y concentración de ventas. La tienda 3, aunque tiene una rentabilidad ligeramente menor, presenta una mejor ubicación geográfica y una mayor diversificación de productos, lo que la hace más sostenible a largo plazo.
+El objetivo de este análisis es determinar cuál de las cuatro tiendas disponibles representa la mejor oportunidad de venta para el Sr. Juan, considerando múltiples factores clave que afectan el rendimiento comercial. Para ello, se han recopilado y procesado datos de ventas, calificaciones de clientes y logística de envío de cada tienda. Con base en estos datos, se han generado visualizaciones que permiten obtener insights y facilitar la toma de decisiones informadas.
 
 ## Recomendación
 
-Se recomienda al señor Juan vender la tienda 2 para invertir en un nuevo negocio. Esta decisión se basa en el análisis de los datos de ventas y el rendimiento de las tiendas, así como en la consideración de factores clave adicionales como la ubicación geográfica y la diversificación de productos.
+Tras analizar todos los factores, se recomienda que el Sr. Juan elija vender en la Tienda 4. Esta decisión se fundamenta en los siguientes puntos clave:
+
+* **Posee altas calificaciones de clientes, lo que asegura buena experiencia y fidelización.
+* **Mantiene ingresos sólidos, sin ser la más baja ni la más alta, lo que sugiere un flujo de ventas constante.
+* **Tiene costos de envío controlados, lo que mejora el margen de utilidad.
+* **Presenta una distribución equilibrada de categorías y una buena mezcla entre productos más y menos vendidos.
+
+Si bien Tienda 2 mostró los ingresos más altos, sus calificaciones bajas y posible dependencia de pocos productos representan un riesgo a mediano plazo. Tienda 3, por otro lado, presenta debilidades en casi todos los aspectos analizados.
+
+## 📌 Recomendación Estratégica Priorizar el canal de venta en Tienda 4.
+* **Mantener vigilancia en la rotación de productos menos vendidos para ajustar stock.
+* **Evaluar oportunidades de crecimiento en categorías mejor posicionadas.
 
 ## Herramientas Utilizadas
 
